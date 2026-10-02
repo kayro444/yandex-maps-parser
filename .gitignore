@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Output files and settings
+settings.json
+*_Excel/
+*.xlsx
+
+# Backups and temp debug scripts
+backup_*/
+*.zip
+check_*.py
+fix_*.py
+patch*.py
+test_*.py
+rewrite_*.py
+move_*.py
+*debug.html
+*pw.html
+gui_*.txt
+.loki/
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Playwright
+.playwright/
